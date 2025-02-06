@@ -2,7 +2,7 @@
 ### osm0sis & Surge1223 @ xda-developers
 *Static arm/arm64 adb and fastboot binaries for Android built with the NDK*
 
-### Links
+### Links 
 * [GitHub](https://github.com/Magisk-Modules-Repo/adb-ndk)
 * [Support](https://is.gd/osm0_)
 * [Sponsor](https://github.com/sponsors/osm0sis)
