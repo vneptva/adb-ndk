@@ -4,7 +4,6 @@
 
 # avoid forced Magisk update-binary replacement breakage
 # see customize.sh for what was previously update-binary
-
 [ -z $TMPDIR ] && TMPDIR=/dev/tmp;
 
 rm -rf $TMPDIR;
